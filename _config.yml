@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : ""
 title_separator          : ""
 name                     : &name "Athina Aruldass"
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-6553-659X"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/athina.aruldass.2/bibliography/public/"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
