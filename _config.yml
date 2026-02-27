@@ -21,11 +21,11 @@ repository               : "academicpages/academicpages.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
-author: "Athina Aruldass"
+author:
   # Biographic information
   avatar           : "ME_2026.png"
   name             : "Athina R. Aruldass"
-  pronouns         : "she/her  
+  pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Boston, MA"
   employer         : "Boston University School of Medicine (BUSM)"
@@ -57,7 +57,7 @@ author: "Athina Aruldass"
 
   # Social media
   artstation       : # Username
-  bluesky          : "‪@athinara.bsky.social" # Replace this with you Bluesky username
+  bluesky          : "‪athinara.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -74,7 +74,7 @@ author: "Athina Aruldass"
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "‪@athinara23"
+  twitter          : "‪athinara23"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
