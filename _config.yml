@@ -23,8 +23,8 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ME_2026.png"
-  name             : "Athina R. Aruldass"
+  avatar           : "ME_2026_LH.png"
+  name             : "Athina Aruldass"
   pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Boston, MA"
